@@ -91,6 +91,18 @@ This submission demonstrates how **on-chain auctions can unlock new financial us
 - **Infrastructure**: RPC via `https://rpc-testnet.doma.xyz`  
 
 ---
+## Auctra Diagram Flowchart Overview
+
+# Domain Auction House Flow
+<img width="3200" height="3840" alt="domain auction house flow" src="https://github.com/user-attachments/assets/0c81b491-2015-4104-8a39-0cf1a81a2c9d" />
+
+# Domain Lending Pool Flow
+<img width="1526" height="3840" alt="Domain Lending Flow" src="https://github.com/user-attachments/assets/8f42ab84-3e22-4d04-a951-199bde483b74" />
+
+# Domain Rental Flow
+<img width="2766" height="3840" alt="domain rental flow" src="https://github.com/user-attachments/assets/ec4b2c4e-7cf3-4c20-9aab-01b6283bd3ca" />
+
+---
 
 ## 📂 Repositories
 
