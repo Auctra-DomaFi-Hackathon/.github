@@ -3,7 +3,7 @@
 > **Redefine DeFi with RWA DomainFi — Auction, Rent, Borrow, All with Your Domain.**
 
 Auctra is a decentralized protocol on the **Doma Network** that transforms domain names into on-chain financial assets.  
-With Auctra, domains are more than digital identities — they become **collateral, yield-bearing instruments, and tradable assets**.
+With Auctra, domains are more than digital identities. They become assets that can be collateralized, rented, and auctioned.
 
 ---
 <img width="1920" height="1080" alt="Screenshot 2025-09-09 at 22 15 23" src="https://github.com/user-attachments/assets/cfaf9673-8f51-45fb-ac35-31cd9afbe37b" />
@@ -94,9 +94,9 @@ This submission demonstrates how **on-chain auctions can unlock new financial us
 
 ## 📂 Repositories
 
-- [Frontend App](https://github.com/your-org/auctra-frontend)  
-- [Smart Contracts](https://github.com/your-org/auctra-contracts)  
-- [Indexer](https://github.com/your-org/auctra-indexer-auction)  
+- [Frontend App](https://github.com/Auctra-DomaFi-Hackathon/auctra-frontend)  
+- [Smart Contracts](https://github.com/Auctra-DomaFi-Hackathon/auctra-smart-contracts)  
+- [Indexer](https://github.com/Auctra-DomaFi-Hackathon/auctra-indexer)  
 
 ---
 
