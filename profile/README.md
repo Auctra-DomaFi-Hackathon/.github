@@ -114,11 +114,12 @@ This submission demonstrates how **on-chain auctions can unlock new financial us
 
 ## 🔗 Official Links
 
-- **GitBook Documentation**: [Coming Soon]()  
-- **Presentation Slides**: [Coming Soon]()  
-- **Website**: [Website Link](https://auctrafi.vercel.app/)  
-- **Demo Video**: [Coming Soon]()  
-- **X (Twitter) Account**: [Coming Soon]()  
+- **Website**: [https://auctrafi.vercel.app/](https://auctrafi.vercel.app/)  
+- **Presentation Slides**: [Canva Deck](https://www.canva.com/design/DAGyggKey8I/3r_7zxsjtsnzhx3sxYO5_w/edit?utm_content=DAGyggKey8I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- **Demo Video**: [YouTube](https://youtu.be/IRrk33aYzug?si=hoz3k4bzB3T0D7xK)  
+- **GitHub Organization**: [Auctra-DomaFi-Hackathon](https://github.com/Auctra-DomaFi-Hackathon)  
+- **GitBook Documentation**: [AuctraFi Docs](https://bimajdiva.gitbook.io/auctrafi)  
+
 
 ---
 
